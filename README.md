@@ -6,5 +6,7 @@ Fake news classification refers to the process of automatically detecting and id
 •	Promoting informed decision-making
 •	Mitigating the impact of fake news
 •	Advancing research
+# 🎯 Conclusion
+The project successfully developed a system for fake news classification using NLP techniques and evaluated its performance using various metrics. The results highlight the potential of NLP techniques in detecting fake news, and the system can be further optimized and expanded to improve its accuracy and scalability.
 # 📧 Contact
 For any inquiries, contact:keerthirajdv2000@gmail.com
